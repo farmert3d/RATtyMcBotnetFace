@@ -1,2 +1,3 @@
 # RATtyMcBotnetFace
-Botnet RAT POC for research.
+RAT with multithreading/botnet capabilites.
+POC for cyber security research.
